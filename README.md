@@ -10,7 +10,7 @@ Definitely a increasing trend with seasonality around the releasing date of the 
 
 <img src="vis/tweet_eps6.png">
 
-### Unique Users by Date
+### Unique Users and Average Users' Posts by Date
 The increasing trend in the total number of tweets about the show can be derived from two reasons:
 
 * Increasing trend in unique users posting about the show. Shows that the show has been attracting more fans.
