@@ -39,5 +39,4 @@ Two actors are widely discussed with an increasing trend.
 ### Related Tweets by Languages
 * Most of the discussions are in Japanese
 * The show is super popular in Thailand
-
 <img src="vis/lan_share.png">
